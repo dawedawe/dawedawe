@@ -1,4 +1,13 @@
-### Hi there 👋
+### Greetings
+
+I'm David aka dawe, a freelancing software engineer with a big :heart_on_fire: for functional programming.  
+Currently, I'm focusing on the open source eco-system of F#.  
+I'm a member of the [Amplifying F#](https://amplifying-fsharp.github.io/) initiative and a co-maintainer of various projects, e.g. [Fantomas](https://github.com/fsprojects/fantomas), [FsHttp](https://github.com/fsprojects/FsHttp), [FSharp.Analyzers.SDK](https://github.com/ionide/FSharp.Analyzers.SDK) and regularly contribute to the [F# compiler](https://github.com/dotnet/fsharp) itself.  
+To further improve the F# developer experience, I also contribute to [FsAutoComplete](https://github.com/fsharp/FsAutoComplete), [Ionide](https://github.com/ionide/ionide-vscode-fsharp) and other developer tools.
+
+If you use any of these projects, think about [sponsoring](https://github.com/sponsors/dawedawe) me to keep them healthy.
+
+
 
 <!--
 **dawedawe/dawedawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
