@@ -1,7 +1,7 @@
 ### Greetings
 
 I'm David aka dawe, a freelancing software engineer and university educator with a big :heart_on_fire: for functional programming and Rust.  
-Currently, I'm focusing on the open source eco-systems of Rust.  
+Currently, I'm focusing on the open source eco-system of Rust.  
 
 If you use any of these projects, think about [sponsoring](https://github.com/sponsors/dawedawe) me to keep them healthy.  
 
