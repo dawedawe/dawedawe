@@ -5,7 +5,7 @@ Currently, I'm focusing on the open source eco-system of Rust.
 
 If you use any of these projects, think about [sponsoring](https://github.com/sponsors/dawedawe) me to keep them healthy.  
 
-Centralized power is a huge problem, that's why I'm also active on [Codeberg](https://codeberg.org/dawe/).
+Centralized power is a huge problem, that's why I'm mostly active on [Codeberg](https://codeberg.org/dawe/).
 
 
 
